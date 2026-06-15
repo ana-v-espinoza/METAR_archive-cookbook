@@ -44,5 +44,10 @@ authors:
     affiliation: NVIDIA
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+  - family-names: Mayala Nsingi
+    given-names: Joseph
+    orcid: https://orcid.org/0000-0003-4946-8555
+    website: https://github.com/MayalaNsingi
+    affiliation: Montclair State University
 title: "Cookbook Template"
 abstract: "A sample cookbook description."
