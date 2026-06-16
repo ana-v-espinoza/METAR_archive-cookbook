@@ -16,6 +16,7 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+        - file: notebooks/primer.ipynb
     - title: Examples 
       children: 
         - file: notebooks/reanalysis_comparison.ipynb
