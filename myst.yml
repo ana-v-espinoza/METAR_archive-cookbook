@@ -15,7 +15,6 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
         - file: notebooks/0_Intro.ipynb
         - file: notebooks/primer.ipynb
     - title: Examples 
